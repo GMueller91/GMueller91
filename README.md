@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GMueller91
-- 👀 I’m interested in Biology/CRISPR/BioInformatics
-- 🌱 I’m currently learning SQL and relational databases in the UNIX environment.
+- 👋 Hi, I’m Grant Mueller
+- 👀 I’m interested in Bioinformatics pipelines for NGS analysis using python and statistical analysis in R.
+- 🌱 I’m currently learning python scripting for sequence analysis, biopython, and NGS analysis.
 - 💞️ I’m looking to collaborate on anything to expand my portfolio!
 - 📫 How to reach me: message me on LinkedIn @grant-mueller.  
 
