@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Grant Mueller a laboratory scientist in biopharmaceuticals. 
-- 👀 I’m interested in Bioinformatics pipelines for NGS analysis using python and statistical analysis in R.
-- 🌱 I’m currently learning python scripting for sequence analysis via biopython and NGS analysis.
+- 👋 Hi, I’m Grant Mueller a laboratory scientist working in biopharmaceuticals aspiring to become a Data Scientist. 
+- 👀 I’m interested in bioinformatics pipelines for Next Generation Sequence analysis and statistical analysis in R.
+- 🌱 I’m currently learning HTML5 and working on my personal website (https://grantmueller.azurewebsites.net/)
 - 💞️ I’m looking to collaborate on projects that will expand my portfolio!
 - 📫 How to reach me: message me on LinkedIn @grant-mueller.  
 
